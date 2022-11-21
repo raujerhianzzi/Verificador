@@ -1,2 +1,0 @@
-# verificador-id
- verificador idade
